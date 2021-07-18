@@ -16,6 +16,7 @@ README.md
 - [Seguros. Preciso? Quais? Valores?](./TOPICO-SEGUROS.md)
 - [Comunidades de Brasileiros na Holanda](./TOPICO-COMUNIDADE-BRASILEIROS-HOLANDA.md)
 - [Aprendendo Holandês](./TOPICO-APRENDENDO-HOLANDES.md)
+- [Preciso trasferir dinheiro da Holanda para o Brasil ou Brasil Holanda](./TOPICO-TRANSFERENCIA-DINHEIRO-INTERNACIONAL.md)
 
 ## ⭐️ Passo-a-passo
 
