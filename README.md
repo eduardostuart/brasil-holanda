@@ -2,7 +2,7 @@ README.md
 
 ## ✅ Checklist
 
-### Estou no Brasil procurando emprego na Holanda
+### Checklist #1: Estou no Brasil procurando emprego na Holanda
 
 > As dicas sobre empregos aqui listadas são relacionadas a área de Tecnologia/Design. 
 
@@ -14,7 +14,7 @@ README.md
 2. A empresa oferece relocation package? Se sim, o que é incluso? (Geralmente isso é informado durante a entrevista);
 3. Leia reviews sobre a empresa no [Glassdoor](https://www.glassdoor.nl/index.htm?countryRedirect=true);
 
-### Passei na entrevista e vou me mudar para a Holanda
+### Checklist #2: Passei na entrevista e vou me mudar para a Holanda
 
 Esse é um checklist "padrão" - independe da empresa. 
 
@@ -23,9 +23,7 @@ Esse é um checklist "padrão" - independe da empresa.
 - [ ] Apostilamento de documentos ([O que é apostilamento?](https://www.netherlandsworldwide.nl/living-working/legalisation-of-dutch-documents-for-use-abroad/legalisation-of-dutch-documents-by-apostille))
 - [ ] ...
 
-### Estou no Brasil
-
-### Cheguei na Holanda
+### Checklist #3: Cheguei na Holanda
 
 - [ ] Criar [DigID](#digid);
 - [ ] Escolher um [banco](#bancos-na-holanda) e abrir conta;
@@ -35,7 +33,7 @@ Esse é um checklist "padrão" - independe da empresa.
 Extras
 - [ ] Trocar carteira de motorista (se você estiver incluso 30%) - Como trocar
 
-### Comprei uma casa/apartamento
+### Checklist #4: Comprei uma casa/apartamento
 
 - [ ] [Seguros](#seguros)
 - [ ] [Internet](#internet)
