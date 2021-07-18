@@ -1,6 +1,4 @@
-# Checklist
-
-## Moro no Brasil e estou procurando emprego na Holanda
+# Moro no Brasil e estou procurando emprego na Holanda
 
 As dicas sobre empregos aqui listadas são relacionadas a área de Tecnologia/Design. 
 
@@ -10,4 +8,11 @@ As dicas sobre empregos aqui listadas são relacionadas a área de Tecnologia/De
 1. Encontre empresas que são [sponsor](https://ind.nl/en/Pages/public-register-recognised-sponsors.aspx);
 2. A empresa oferece relocation package? Se sim, o que é incluso? (Geralmente isso é informado durante a entrevista);
 3. Leia reviews sobre a empresa no [Glassdoor](https://www.glassdoor.nl/index.htm?countryRedirect=true);
+
+
+## Links
+
+- [The Tech Resume](https://thetechresume.com/)
+- [Lista de empresas Sponsor na Holanda](https://ind.nl/en/Pages/public-register-recognised-sponsors.aspx)
+- [Glassdoor](https://www.glassdoor.nl/index.htm?countryRedirect=true)
 
