@@ -2,28 +2,18 @@ README.md
 
 ## ✅ Checklist
 
-- [Estou no Brasil procurando emprego na Holanda](./CHECKLIST-ESTOU-NO-BRASIL-PROCURANDO-EMPREGO-HOLANDA)
+- [Moro no Brasil e estou procurando emprego na Holanda](./CHECKLIST-ESTOU-NO-BRASIL-PROCURANDO-EMPREGO-HOLANDA)
 - [Passei na entrevista e vou me mudar para a Holanda](./CHECKLIST-PASSEI-ENTREVISTA-MUDAR-HOLANDA)
 - [Cheguei na Holanda...e agora?](./CHECKLIST-CHEGUEI-NA-HOLANDA)
 - [Comprei uma casa..e agora?](./CHECKLIST-COMPREI-CASA)
 
 ## 🤓 Tópicos
 
-### Meios de Pagamento na Holanda
-
-### Saúde
-
-### DigID
-
-### Bancos na Holanda
-
-### Plano de saúde
-
-### Regra dos 30%
-
-> ...
-
-### Seguros
+- [Saúde na Holanda](./TOPICO-SAUDE)
+- [DigID](./TOPICO-DIGID)
+- [Bancos na Holanda](./TOPICO-BANCOS-HOLANDA)
+- [Regra dos 30%. O que é? Como funciona?](./TOPICO-REGRA-30-PORCENTO)
+- [Seguros. Preciso? Quais? Valores?](./TOPICO-SEGUROS)
 
 ## ⭐️ Passo-a-passo
 
