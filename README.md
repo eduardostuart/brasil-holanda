@@ -17,6 +17,7 @@ README.md
 - [Brasileiros na Holanda: Comunidades, Comida, Eventos... ](./TOPICO-COMUNIDADE-BRASILEIROS-HOLANDA.md)
 - [Aprendendo Holandês; Quero aprender; Onde aprender](./TOPICO-APRENDENDO-HOLANDES.md)
 - [Preciso trasferir dinheiro da Holanda para o Brasil ou Brasil Holanda](./TOPICO-TRANSFERENCIA-DINHEIRO-INTERNACIONAL.md)
+- [Onde comprar...? Eletrônicos, Remédios, .... ](./TOPICO-ONDE-COMPRAR.md)
 
 ## ⭐️ Passo-a-passo
 
