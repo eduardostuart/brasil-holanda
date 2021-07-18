@@ -14,8 +14,8 @@ README.md
 - [Bancos na Holanda](./TOPICO-BANCOS-HOLANDA.md)
 - [Regra dos 30%. O que é? Como funciona?](./TOPICO-REGRA-30-PORCENTO.md)
 - [Seguros. Preciso? Quais? Valores?](./TOPICO-SEGUROS.md)
-- [Comunidades de Brasileiros na Holanda](./TOPICO-COMUNIDADE-BRASILEIROS-HOLANDA.md)
-- [Aprendendo Holandês](./TOPICO-APRENDENDO-HOLANDES.md)
+- [Brasileiros na Holanda: Comunidades, Comida, Eventos... ](./TOPICO-COMUNIDADE-BRASILEIROS-HOLANDA.md)
+- [Aprendendo Holandês; Quero aprender; Onde aprender](./TOPICO-APRENDENDO-HOLANDES.md)
 - [Preciso trasferir dinheiro da Holanda para o Brasil ou Brasil Holanda](./TOPICO-TRANSFERENCIA-DINHEIRO-INTERNACIONAL.md)
 
 ## ⭐️ Passo-a-passo
