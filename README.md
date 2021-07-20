@@ -32,7 +32,3 @@
 
 - [Como trocar a carteira de motorista](./passo-a-passo/PASSO-A-PASSO-TROCAR-CARTEIRA-MOTORISTA.md)
 
-## 💁‍♂️ Referências
-
-- DigID: https://www.digid.nl/
-- 
