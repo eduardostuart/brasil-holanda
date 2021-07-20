@@ -21,4 +21,4 @@ WIP
 
 ## Referências
 
-([O que é apostilamento?](https://www.netherlandsworldwide.nl/living-working/legalisation-of-dutch-documents-for-use-abroad/legalisation-of-dutch-documents-by-apostille))
+- [O que é apostilamento?](https://www.netherlandsworldwide.nl/living-working/legalisation-of-dutch-documents-for-use-abroad/legalisation-of-dutch-documents-by-apostille)
