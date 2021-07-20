@@ -31,6 +31,7 @@
 - wip [Aprendendo Holandês; Quero aprender; Onde aprender](./topico/TOPICO-APRENDENDO-HOLANDES.md)
 - wip [Preciso trasferir dinheiro da Holanda para o Brasil ou Brasil Holanda](./topico/TOPICO-TRANSFERENCIA-DINHEIRO-INTERNACIONAL.md)
 - wip [Onde comprar...? Eletrônicos, Remédios, .... ](./topico/TOPICO-ONDE-COMPRAR.md)
+- wip [Quero levar meus pets para a Holanda....e agora?](./topico/TOPICO-PETS.md)
 
 ## ⭐️ Passo-a-passo
 
