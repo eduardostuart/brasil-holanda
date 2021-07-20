@@ -1,4 +1,13 @@
-README.md
+# Brasil Holanda
+
+
+> 🚨 Aviso
+> 
+> Utilize as informações desse repositório apenas como referência e/ou um direcionamento.
+> 
+> Sempre pergunte a empresa que está te contratando quais os documentos necessários e/ou consulte sites oficiais do governo. 
+> 
+
 
 ## ✅ Checklist
 
