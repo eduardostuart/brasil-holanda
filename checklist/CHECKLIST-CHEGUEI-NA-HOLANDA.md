@@ -3,9 +3,9 @@
 ## Cheguei na Holanda
 
 - [ ] Criar [DigID](#digid);
-- [ ] Escolher um [banco](#bancos-na-holanda) e abrir conta;
 - [ ] Agendar horário na prefeitura e pegar o seu [BSN - burgerservicenummer](https://www.iamexpat.nl/expat-info/official-issues/bsn-sofi-number-netherlands); 
 - [ ] 🚨 **(Obrigatório)** Escolher [plano de saúde](#plano-de-saude)
+- [ ] Escolher um [banco](#bancos-na-holanda) e abrir conta; (Dependendo do banco, você vai precisar do BSN)
 
 **Extras**
 - [ ] Trocar carteira de motorista (se você estiver incluso 30%) - [Como trocar](https://github.com/eduardostuart/brasil-holanda/blob/main/passo-a-passo/PASSO-A-PASSO-TROCAR-CARTEIRA-MOTORISTA.md)
