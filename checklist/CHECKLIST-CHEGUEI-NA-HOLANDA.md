@@ -2,7 +2,7 @@
 
 ## Cheguei na Holanda
 
-- [ ] Criar [DigID](#digid);
+- [ ] Criar [DigID](https://www.digid.nl/);
 - [ ] Agendar horário na prefeitura e pegar o seu [BSN - burgerservicenummer](https://www.iamexpat.nl/expat-info/official-issues/bsn-sofi-number-netherlands); 
 - [ ] 🚨 **(Obrigatório)** Escolher [plano de saúde](#plano-de-saude)
 - [ ] Escolher um [banco](#bancos-na-holanda) e abrir conta; (Dependendo do banco, você vai precisar do BSN)
@@ -16,6 +16,6 @@
 - Assinatura cartão de transporte: https://www.ov-chipkaart.nl/purchase-an-ov-chipkaart/apply-for-personal-ov-chipkaart.htm
 - O que é BSN: https://www.iamexpat.nl/expat-info/official-issues/bsn-sofi-number-netherlands
 - Agendar horário para pegar o BSN. Se o seu destino é Amsterdam: https://www.amsterdam.nl/en/civil-affairs/first-registration/ ; Caso contrário olhe no site da prefeitura da cidade que você irá morar.
-
+- DigID: https://www.digid.nl/
 
 
