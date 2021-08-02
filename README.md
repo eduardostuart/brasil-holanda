@@ -23,7 +23,7 @@
 ## 🤓 Tópicos
 
 - wip [Saúde na Holanda](./topico/TOPICO-SAUDE.md)
-- wip [DigID](./topico/TOPICO-DIGID.md)
+- [DigID](./topico/TOPICO-DIGID.md)
 - wip [Bancos na Holanda](./topico/TOPICO-BANCOS-HOLANDA.md)
 - wip [Regra dos 30%. O que é? Como funciona?](./topico/TOPICO-REGRA-30-PORCENTO.md)
 - wip [Seguros. Preciso? Quais? Valores?](./topico/TOPICO-SEGUROS.md)
