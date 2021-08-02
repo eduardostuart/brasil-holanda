@@ -1,6 +1,6 @@
 # Bancos na Holanda
 
-## Lista de bancos
+<img width="480" src="https://user-images.githubusercontent.com/767879/127912782-c08b54d2-447b-4c23-8d90-5a30cbe9e32a.png" alt="Bancos na Holanda" align="right" />
 
 Os principais bancos na Holanda são:
 
@@ -15,10 +15,17 @@ Fora da Holanda, mas funcionam aqui:
 - N26: https://n26.com/en-eu
 
 
+O N26 oferece dois tipos de cartões: Maestro e Mastercard. Na Holanda, o principal cartão é maestro. Caso você opte pelo mastercard, alguns locais como supermercados, ...  podem não aceitar. 
+
+
 ## Como fazer depósito?
 
-Procure um ATM do seu banco e faça o depósito. Não precisa de envolope e o dinheiro cai na hora.
+Procure um ATM (Een geldstortautomaat (biljetten) - para depósito de dinheiro em notas) do seu banco e faça o depósito. 
+Não precisa de envolope e o dinheiro cai na hora.
 
+Bancos
+- ABN: https://www.abnamro.nl/en/personal/contact/find-a-branch-or-an-atm.html 
+- ING: https://www.ing.nl/particulier/klantenservice/bankzaken-beginnen-of-beeindigen/geldautomaat-of-kantoor-zoeken/index.html
 
 ## Como consultar meu saldo e/ou sacar dinheiro?
 
