@@ -24,7 +24,7 @@
 
 - wip [Saúde na Holanda](./topico/TOPICO-SAUDE.md)
 - [DigID](./topico/TOPICO-DIGID.md)
-- wip [Bancos na Holanda](./topico/TOPICO-BANCOS-HOLANDA.md)
+- [Bancos na Holanda](./topico/TOPICO-BANCOS-HOLANDA.md)
 - wip [Regra dos 30%. O que é? Como funciona?](./topico/TOPICO-REGRA-30-PORCENTO.md)
 - wip [Seguros. Preciso? Quais? Valores?](./topico/TOPICO-SEGUROS.md)
 - wip [Brasileiros na Holanda: Comunidades, Comida, Eventos... ](./topico/TOPICO-COMUNIDADE-BRASILEIROS-HOLANDA.md)
