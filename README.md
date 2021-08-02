@@ -1,10 +1,8 @@
 <h1>
   <p align="center">Brasil ✈️ Holanda</p>
 </h1>
+<p align="center">Tudo que aprendi e sei sobre como mudar e morar na Holanda. </p>
 
-Tudo que aprendi e sei sobre como mudar e morar na Holanda. 
- 
-<img src="https://user-images.githubusercontent.com/767879/127913688-bfcb283a-1979-4d46-a88f-3a0a341b1fee.png" align="right" alt="Brasil - Holanda" width="280" />
 
 
 > 🚨 Aviso 🚨
