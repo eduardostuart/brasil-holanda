@@ -12,7 +12,11 @@ DigID permite que você se identifique em sites [governamentais, instituições 
 
 ## Aplicativos
 
-https://www.digid.nl/inlogmethodes/digid-app/
+- https://www.digid.nl/inlogmethodes/digid-app/
+
+
+- Android: https://play.google.com/store/apps/details?id=nl.rijksoverheid.digid.pub
+- iOS: https://apps.apple.com/us/app/digid/id1208460960?ls=1
 
 
 ## Referências
