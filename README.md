@@ -1,7 +1,7 @@
 <h1>
   <p align="center">Brasil ✈️ Holanda</p>
 </h1>
-<p align="center">Tudo que aprendi e sei sobre como mudar e morar na Holanda. </p>
+<p align="center">Tudo que aprendi sobre como mudar e morar na Holanda. </p>
 
 
 
