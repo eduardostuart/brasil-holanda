@@ -21,6 +21,7 @@
 1. [Checklist](#-checklist)
 2. [Tópicos](#-topicos)
 3. [Passo a passo](#-passo-a-passo)
+4. [Diagramas](#-diagramas)
 
 
 ### ✅ Checklist
