@@ -46,3 +46,11 @@
 ### ⭐️ Passo-a-passo
 
 - [Como trocar a carteira de motorista](./passo-a-passo/PASSO-A-PASSO-TROCAR-CARTEIRA-MOTORISTA.md)
+
+
+### Diagramas
+
+Overview mudança:
+
+![diagram](https://user-images.githubusercontent.com/767879/134030149-e947ecff-0e59-4c04-a225-b808c4572331.jpeg)
+
